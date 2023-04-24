@@ -5,7 +5,14 @@ Deploy a simple Node.js server to EC2, using Elastic Beanstalk
 
 [aws-practice](http://awsdeploy-env.eba-avcmfcpg.us-east-1.elasticbeanstalk.com/)
 
-[message-me](http://lab-env.eba-npejgmuu.us-west-2.elasticbeanstalk.com/)
+[message-me](http://server-deployment-practice-dev2.us-west-2.elasticbeanstalk.com/)
+
+### Usage
+
+For aws-practice, go to `http://awsdeploy-env.eba-avcmfcpg.us-east-1.elasticbeanstalk.com/` to connect to the server, and add the `/status` end point will show a success message 
+
+For message-me app, go to `http://awsdeploy-env.eba-avcmfcpg.us-east-1.elasticbeanstalk.com/` to connect to the server, the endpoint `capitalize-me` endpoint will let you add query named `message`. 
+You can test this by going to `http://awsdeploy-env.eba-avcmfcpg.us-east-1.elasticbeanstalk.com/capitalize-me?message=hi`, you will see "HI"
 
 ## Process
 
