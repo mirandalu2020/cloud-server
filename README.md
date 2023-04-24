@@ -1,6 +1,11 @@
 # cloud-server
 Deploy a simple Node.js server to EC2, using Elastic Beanstalk
 
+## URL
+
+[aws-practice](http://awsdeploy-env.eba-avcmfcpg.us-east-1.elasticbeanstalk.com/)
+[message-me](http://lab-env.eba-npejgmuu.us-west-2.elasticbeanstalk.com/)
+
 ## Process
 
 ### using the AWS GUI
